@@ -20,3 +20,10 @@
   ```
   git clone https://github.com/tvoypervy/2048Game.git
   ```
+  ```
+  npm install
+  ```
+  ```
+  npm start
+  ```
+
